@@ -1,4 +1,4 @@
 Team Members:
 
 * Yiqin Han
-* TODO: others
+* kate dums
